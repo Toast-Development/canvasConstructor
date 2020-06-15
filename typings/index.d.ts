@@ -265,7 +265,7 @@ declare module 'canvas-constructor' {
 
 }
 
-declare module 'canvas' {
+declare module 'canvas-constructor' {
 
 	export class Image {
 
